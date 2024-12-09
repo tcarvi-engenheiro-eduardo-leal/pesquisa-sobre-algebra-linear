@@ -41,7 +41,7 @@
 	- Exclua textos e links do Facebook.
 	- Substitua arquivos markdowns do diretório website/docs/, conforme padrão desta formatação de textos e conforme seus conteúdos.
 		- docs/intro
-			- docs/conceitos-gerais
+			- /docs/category/conceitos-gerais
 - Execução do site, em browser http://localhost:3000
 	- ```bash
 		cd website
