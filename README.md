@@ -1,7 +1,7 @@
 # algebra-linear
 Aplicações e Tutorial sobre Algebra Linear.
 
-- Comando usado para gerar wesite:
+- Comando usado para gerar website:
 	- npx create-docusaurus@latest [name] [template] [rootDir]
 	- npx create-docusaurus@latest pesquisa-algebra-linear classic website --typescript
 - Versões Utilizadas:
@@ -42,12 +42,12 @@ Aplicações e Tutorial sobre Algebra Linear.
 		- docs/intro
 			- docs/conceitos-gerais
 - Execução do site, em browser http://localhost:3000
-```bash
-cd website
-```  
-```bash
-yarn install
-```  
-```bash
-yarn start
-```  
+- ```bash
+	cd website
+	```    
+- ```bash
+	yarn install
+	```  
+- ```bash
+	yarn start
+	```  
