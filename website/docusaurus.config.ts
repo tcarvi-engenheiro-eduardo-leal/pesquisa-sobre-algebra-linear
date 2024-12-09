@@ -17,7 +17,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'TCARVI', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -82,7 +82,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/pesquisa-sobre-algebra-linear',
           label: 'GitHub',
           position: 'right',
         },
@@ -96,7 +96,7 @@ const config: Config = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/conceitos-gerais',
             },
           ],
         },
@@ -105,11 +105,11 @@ const config: Config = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/users/26135239/tcarvi-engenheiro-eduardo-leal?tab=questions',
             },
             {
               label: 'YouTube',
-              href: 'https://stackoverflow.com/users/26135239/tcarvi-engenheiro-eduardo-leal?tab=questions',
+              href: 'https://www.youtube.com/channel/UCWA39JV7f68QQ6lZEpMOqIA',
             },
             {
               label: 'X',
@@ -126,7 +126,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/tcarvi-engenheiro-eduardo-leal/pesquisa-sobre-algebra-linear',
             },
           ],
         },

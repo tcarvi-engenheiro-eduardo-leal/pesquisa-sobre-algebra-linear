@@ -25,7 +25,7 @@ Aplicações e Tutorial sobre Algebra Linear.
 			- atualizado em  ${new Date().toLocaleDateString("pt-BR")} ©TCARVI
 		- https://x.com/docusaurus
 			- https://x.com/tcarvi_eduardo
-		- https://discordapp.com/invite/docusaurus
+		- https://stackoverflow.com/questions/tagged/docusaurus		
 			- https://stackoverflow.com/users/26135239/tcarvi-engenheiro-eduardo-leal?tab=questions
 		- https://discordapp.com/invite/docusaurus
 			- https://www.youtube.com/channel/UCWA39JV7f68QQ6lZEpMOqIA
@@ -33,5 +33,11 @@ Aplicações e Tutorial sobre Algebra Linear.
 			- YouTube
 		- Hello from $
 			- $
+		- organizationName: 'facebook'
+			- organizationName: 'TCARVI'
+		- https://github.com/facebook/docusaurus
+			- https://github.com/tcarvi-engenheiro-eduardo-leal/pesquisa-sobre-algebra-linear
 	- Exclua textos e links do Facebook.
 	- Substitua arquivos markdowns do diretório website/docs/, conforme padrão desta formatação de textos e conforme seus conteúdos.
+		- docs/intro
+			- docs/conceitos-gerais
