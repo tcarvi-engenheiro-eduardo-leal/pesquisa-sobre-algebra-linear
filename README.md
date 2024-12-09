@@ -9,3 +9,29 @@ Aplicações e Tutorial sobre Algebra Linear.
 	- npm: 10.9.0
 	- npx: 10.9.0
 	- create-docusaurus: 3.6.3
+- Alteração da template:
+	- Encontre textos e os substitua:
+		- My Site
+			- Algebra Linear
+		- Dinosaurs are cool
+			- Tutoriais de Álgebra Linear
+		- Docusaurus Tutorial - 5min
+			- Tutoriais - 10 min
+		- https://your-docusaurus-site.example.com
+			- https://tcarvi.com.br
+		- https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/
+			- https://github.com/tcarvi-engenheiro-eduardo-leal/pesquisa-sobre-algebra-linear/tree/main/
+		- Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.
+			- atualizado em  ${new Date().toLocaleDateString("pt-BR")} ©TCARVI
+		- https://x.com/docusaurus
+			- https://x.com/tcarvi_eduardo
+		- https://discordapp.com/invite/docusaurus
+			- https://stackoverflow.com/users/26135239/tcarvi-engenheiro-eduardo-leal?tab=questions
+		- https://discordapp.com/invite/docusaurus
+			- https://www.youtube.com/channel/UCWA39JV7f68QQ6lZEpMOqIA
+		- Discord
+			- YouTube
+		- Hello from $
+			- $
+	- Exclua textos e links do Facebook.
+	- Substitua arquivos markdowns do diretório website/docs/, conforme padrão desta formatação de textos e conforme seus conteúdos.
