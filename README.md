@@ -42,12 +42,12 @@ Aplicações e Tutorial sobre Algebra Linear.
 		- docs/intro
 			- docs/conceitos-gerais
 - Execução do site, em browser http://localhost:3000
-- ```bash
-	cd website
-	```    
-- ```bash
-	yarn install
-	```  
-- ```bash
-	yarn start
-	```  
+	- ```bash
+		cd website
+		```    
+	- ```bash
+		yarn install
+		```  
+	- ```bash
+		yarn start
+		```  
