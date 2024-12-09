@@ -1,6 +1,7 @@
 # algebra-linear
-Aplicações e Tutorial sobre Algebra Linear.
+- Pesquisa sobre Algebra Linear.
 
+## Sobre o website de apresentação
 - Comando usado para gerar website:
 	- npx create-docusaurus@latest [name] [template] [rootDir]
 	- npx create-docusaurus@latest pesquisa-algebra-linear classic website --typescript
