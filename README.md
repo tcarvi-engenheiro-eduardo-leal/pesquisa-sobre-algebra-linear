@@ -38,11 +38,25 @@
 			- organizationName: 'TCARVI'
 		- https://github.com/facebook/docusaurus
 			- https://github.com/tcarvi-engenheiro-eduardo-leal/pesquisa-sobre-algebra-linear
-	- Exclua textos e links do Facebook.
-	- Substitua arquivos markdowns do diretório website/docs/, conforme padrão desta formatação de textos e conforme seus conteúdos.
-		- docs/intro
+	- Se você não usar uma rede social pessoal, exclua textos e links do Facebook.
+	- Apague pastas e markdowns do diretório website/docs/, 
+		- inclua:
+			- /docs/conceitos-gerais/_category_.json
+			```json		
+	        {
+				"label": "Conceitos Gerais",
+				"link": {
+  					"type": "generated-index",
+  					"description": "5 minutos para ler cada tópico do tutorial."
+				}			
+	 	   }  
+			```
+		- e inclua:
+			- /docs/conceitos-gerais/00-conceitos.md
+	- Encontre o seguinte texto e o substitua:
+		- /docs/intro
 			- /docs/category/conceitos-gerais
-- Execução do site, em browser http://localhost:3000
+- Execução do site, em browser http://localhost:3001
 	- ```bash
 		cd website
 		```    
@@ -50,5 +64,6 @@
 		yarn install
 		```  
 	- ```bash
-		yarn start
+		yarn start -p 30001
 		```  
+
