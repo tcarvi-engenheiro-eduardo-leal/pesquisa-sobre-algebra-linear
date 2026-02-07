@@ -89,3 +89,6 @@ $ - 9 $
 
 ### Somar os termos encontrados
 -3 + 12 + - 9 = 0
+
+### Resposta final
+- O determinante da matriz A é igual a 0.
